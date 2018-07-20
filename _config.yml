@@ -1,4 +1,6 @@
-theme: jekyll-theme-cayman
+#Build Settings
+#theme: jekyll-theme-cayman
+remote_theme: "mmistakes/minimal-mistakes"
 
 title: Eric Fletcher
 description: [A short description of your purpose]
