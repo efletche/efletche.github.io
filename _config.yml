@@ -4,3 +4,6 @@ remote_theme: "mmistakes/minimal-mistakes@4.15.1"
 
 title: Eric Fletcher
 description: [A short description of your purpose]
+
+plugins:
+  jekyll-include-cache
