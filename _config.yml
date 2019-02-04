@@ -6,4 +6,4 @@ title: Eric Fletcher
 description: [A short description of your purpose]
 
 plugins:
-  jekyll-include-cache
+  - jekyll-include-cache
