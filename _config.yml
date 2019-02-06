@@ -1,9 +1,6 @@
 #Build Settings
 #theme: jekyll-theme-cayman
-remote_theme: "mmistakes/minimal-mistakes@4.15.1"
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 title: Eric Fletcher
 description: [A short description of your purpose]
-
-plugins:
-  - jekyll-include-cache
