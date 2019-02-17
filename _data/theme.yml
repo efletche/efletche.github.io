@@ -1,3 +1,4 @@
+
 skin: night
 
 google_fonts:
@@ -26,3 +27,4 @@ t:
 navigation_pages:
   - about.md
   - resume.md
+  - publications.md
