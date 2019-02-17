@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "Eric Fletcher",
+    "label": "Programmer",
+    "picture": "",
+    "email": "fletcher.e@gmail.com",
+    "phone": "",
+    "website": "http://efletche.github.io",
+    "summary": "",
+    "location": {
+      "address": "P.O. BOX 83",
+      "postalCode": "HI 96782",
+      "city": "Pearl City",
+      "countryCode": "US",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Joint Institute for Marine and Atmospheric Research",
+      "position": "Computer and Database Specialist",
+      "website": "https://www.soest.hawaii.edu/jimar/",
+      "startDate": "September 2018",
+      "endDate": "Present",
+      "summary": "Provides tasks related to scientific computing, using tools created in various programming languages, including implementation and visualization of statistical tabulations from fishery databases and model projections for fisheries stock assessment and sustainability with the Pacific Island Fisheries Science Center (PIFSC) and its partners. Work with researchers with diverse backgrounds.",
+      "highlights": [
+        "Developing a web page front end to access fishery stock researcher’s GitHub publishiled repos.",
+        "Redesigned the graphical user interface for AGEPRO (Age Structured Projection Model) version 4.3.0, using C#. Available at the NOAA Fisheries Toolbox (NFT).",
+        "Data used in research working papers, publications, and in committees such as the International Scientific Committee on Tuna and Tuna-like Species in the North Pacific Ocean (ISC)."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "District 49 Toastmasters",
+      "position": "Member of Nu'uanu and Ford Island Toastmasters",
+      "website": "https://district49.org/",
+      "startDate": "2019",
+      "endDate": "Present",
+      "summary": "To Improve Communication and Leadership Skills",
+      "highlights": [
+        "Area 11 Director, 2018-2019",
+        "Area 13 Director, 2017-2018",
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2002",
+      "endDate": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data Science",
+      "keywords": [
+        "R",
+        "Shiny",
+        "Oracle"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Jekyll",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "User Interface",
+      "keywords" : [
+        "C#",
+        "Tcl/Tk",
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "s",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    }
+  ],
+}
