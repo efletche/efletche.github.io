@@ -4,3 +4,8 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 title: Eric Fletcher
 description: [A short description of your purpose]
+lang: en-US
+github_username: efletche
+
+author:
+  name: Eric Fletcher
