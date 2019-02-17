@@ -1,11 +1,11 @@
 ---
 title: Publications
-layout: collection
+layout: pub-list
 permalink: /publications/
 collection: publications
 entries_layout: list
-
-sort_order: forward
+sort_by: title
+sort_order: reverse
 ---
 
 
