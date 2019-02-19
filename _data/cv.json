@@ -88,11 +88,8 @@
   ],
   "publications": [
     {
-      "name": "s",
-      "publisher": "",
-      "releaseDate": "",
-      "website": "",
-      "summary": ""
+      "name": "Publication List",
+      "website": "/publications/",
     }
   ],
 }
